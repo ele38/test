@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:ele38/test.git
+	branch = master
